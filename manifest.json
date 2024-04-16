@@ -4,8 +4,9 @@
   "name": "Skiovox Helper",
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
-    "128": "icon.png"
+    "128": "icon.png"  
   },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqvipXtm9HMZcb01byPPufrWIKvLtWYcCFTrbAHmtWSJqGSzbgVexNpZaJhKiGLFKV4UP9Idpz0Ua3N5NzpQkukFiEjkKtkG47SljAVU3oBZYOINVCwE2NH+i3FMLmSnGEH4D/SdG3npmtSqHCoy8IVzTrpB93yrwrGqGlv2iJ4CsVqqVwzFCYBdoWmMCauaTblDKdgNakGGsdOQJnuhums9ZRgbS177oFTUUmhuLzzuN+0dME9ppIims0wwdSYcjoZcPT4y6YwlyPab57MY3+braPX4CVYACvfpsGj/N4FzUiWmmBuwmWP2zmatRpA35RRIqaaQTDvwMUwl0SNG8SwIDAQAB",
   "commands": {
     "ACCESS_HISTORY": {
       "description": "Ctrl+H"
